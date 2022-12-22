@@ -1,6 +1,0 @@
-Start
-Print "Enter speed in m/h"
-Read input ----> m
-k = m * 0.0004474
-Print "Speed in km/s"
-END
