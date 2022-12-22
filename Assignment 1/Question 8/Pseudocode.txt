@@ -1,0 +1,7 @@
+Start
+Print “Enter Number”
+Read Input ----> n
+While n! = 0
+Sum <---- Sum = N1 + N2 + ...........
+Print Sum
+End
