@@ -2,7 +2,6 @@
 
 Start
 
-
 Print "Enter gender”
 
 Read input ----> g
