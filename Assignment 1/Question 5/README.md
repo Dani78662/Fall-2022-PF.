@@ -1,4 +1,4 @@
-#Pseudocode
+# Pseudocode
 
 Start
 
@@ -72,7 +72,7 @@ Print “OFF”
 
 End.
 
-#Flow Chart
+# Flow Chart
 
 ![FlowChart 5](https://user-images.githubusercontent.com/117455989/209166032-13583a33-0517-4114-865f-191868bace1e.jpeg)
 
