@@ -1,0 +1,10 @@
+1. Start
+2. Print “Enter Number of Rows”
+3. Read input ----> n
+4. i <---- I == 1
+5. While n< I
+6. J <---- j==1
+7. While j>I ----> Yes ----> i=i+1
+8. j <---- j+1
+9. Print *
+10. End
