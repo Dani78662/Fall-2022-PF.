@@ -1,4 +1,4 @@
-#Pseudocode
+# Pseudocode
 
 Start
 
@@ -44,6 +44,6 @@ Print f
 
 End
 
-#FlowChart
+# FlowChart
 
 ![FlowChart 4](https://user-images.githubusercontent.com/117455989/209166810-a11cf29c-2fd7-4d69-9593-d33178f715ee.jpeg)
