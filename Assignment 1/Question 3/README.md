@@ -1,4 +1,4 @@
-#Pseudocode
+# Pseudocode
 
 Start
 
@@ -32,6 +32,6 @@ Print “Minor”
 
 End
 
-#Flow Chart
+# Flow Chart
 
 ![FlowChart 3](https://user-images.githubusercontent.com/117455989/209165642-fe1d47ef-1227-4a07-a0e9-731f4b9955a4.jpeg)
