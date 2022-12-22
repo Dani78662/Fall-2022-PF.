@@ -1,4 +1,4 @@
-#Pseudocode
+# Pseudocode
 
 Start
 
@@ -18,6 +18,6 @@ Else Print “I is Odd Number”
 
 End
 
-Flow Chart
+# Flow Chart
 
 ![FlowChart 2](https://user-images.githubusercontent.com/117455989/209165235-cdccd2ee-5220-4786-8dae-efdf2d126cd2.jpeg)
