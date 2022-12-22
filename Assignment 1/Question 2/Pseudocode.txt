@@ -1,0 +1,9 @@
+Start
+Print “Enter Integer”
+Read input I
+If I < 0
+Print “Invalid input”
+Else if n%2==0
+Print “I is Even Number”
+Else Print “I is Odd Number”
+End
