@@ -12,7 +12,7 @@ Sum <---- Sum = N1 + N2 + ...........
 
 Print Sum
 
-End
+END
 
 # FlowChart
 
